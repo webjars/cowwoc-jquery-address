@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>cowwoc.jquery.address</artifactId>
-    <version>1.6</version>
+    <version>1.7-SNAPSHOT</version>
     <name>JQuery Address</name>
     <description>WebJar for JQuery Address</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/cowwoc-jquery-address</url>
         <connection>scm:git:https://github.com/webjars/cowwoc-jquery-address.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/cowwoc-jquery-address.git</developerConnection>
-        <tag>cowwoc.jquery.address-1.6</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>
