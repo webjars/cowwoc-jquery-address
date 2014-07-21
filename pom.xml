@@ -10,8 +10,8 @@
 
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
-    <artifactId>cowwoc.jquery.address</artifactId>
-    <version>1.7-SNAPSHOT</version>
+    <artifactId>cowwoc-jquery-address</artifactId>
+    <version>1.6-SNAPSHOT</version>
     <name>JQuery Address</name>
     <description>WebJar for JQuery Address</description>
     <url>http://webjars.org</url>
